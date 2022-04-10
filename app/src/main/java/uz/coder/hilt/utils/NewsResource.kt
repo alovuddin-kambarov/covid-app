@@ -1,0 +1,1 @@
+package uz.coder.hilt.utilsimport uz.coder.hilt.database.entity.NewsEntitysealed class NewsResource {    object Loading : NewsResource()    data class Success(val list: List<NewsEntity>): NewsResource()    data class Error(val message: String): NewsResource()}

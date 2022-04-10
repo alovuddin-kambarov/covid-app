@@ -1,0 +1,1 @@
+package uz.coder.hilt.models.newsdata class News(    val articles: List<Article>? = null,    val status: String,    val totalResults: Int)

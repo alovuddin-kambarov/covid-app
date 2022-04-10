@@ -1,0 +1,1 @@
+package uz.coder.hilt.models.newsdata class Source(    val id: Any,    val name: String)

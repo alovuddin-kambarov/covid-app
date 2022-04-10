@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Covid 19</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="wear_a_mask">Wear a Mask</string>
+    <string name="str">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Volutpat felis sit eget euismod et vulputate. Vitae lacus, maecenas odio ac.</string>
+    <string name="get_started">GET STARTED</string>
+    <string name="coronavirus">CoronaVirus</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="musk">Masks are a key measure to reduce transmission and save lives.
+
+Wearing well-fitted masks should be used as part of a comprehensive ‘Do it all!’ approach including maintaining physical distancing, avoiding crowded, closed and close-contact settings, ensuring good ventilation of indoor spaces, cleaning hands regularly, and covering sneezes and coughs with a tissue of bent elbow.
+
+Depending on the type, masks can be used for either protection of healthy persons or to prevent onward transmission, or both.</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="covid_19">Covid-19</string>
+    <string name="foo">If you feel sick with any of covid-19 symptoms please call or message us immediately for help.</string>
+    <string name="bar">Are you feeling sick?</string>
+    <string name="send_sms">SEND SMS</string>
+    <string name="call_now">CALL NOW</string>
+    <string name="notification">Notification</string>
+    <string name="prevention">Prevention</string>
+    <string name="article">Article</string>
+    <string name="statistics">Statistics</string>
+    <string name="symptoms">Symptoms</string>
+    <string name="preventation">Preventation</string>
+    <string name="news">News</string>
+    <string name="help">Help</string>
+    <string name="uzb">UZB</string>
+    <string name="at_least_23_italian_doctors_have_died">At least 23 Italian doctors have died</string>
+    <string name="bbc_in_covid_news">BBC in Covid News</string>
+    <string name="_17_september_4_min_read">17 September . 4 min read</string>
+    <string name="use_mask">Use mask</string>
+    <string name="lorem_ipsum_dolor_sit_amet">Lorem ipsum dolor sit amet</string>
+    <string name="covid_19_global_case">Covid-19 global case ...</string>
+    <string name="coronavirus_a_visual_guide_to_the_pandemic">Coronavirus: A visual guide to the pandemic</string>
+    <string name="asd">There is no evidence that drinking lots of water flushes out the new coronavirus or the stomach ...</string>
+    <string name="last_update_at_12_21">Last update at 12:21</string>
+    <string name="total_cases">Total cases</string>
+    <string name="_234_32">234,32</string>
+    <string name="active_cases">Active cases</string>
+    <string name="recovered">Recovered</string>
+    <string name="uzbekistan_news">Uzbekistan news</string>
+    <string name="_5_symptoms_of_corona_virus">5 Symptoms of Corona Virus ...</string>
+    <string name="read_more"><![CDATA[read more ->]]></string>
+</resources>
