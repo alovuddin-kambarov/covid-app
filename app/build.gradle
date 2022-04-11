@@ -76,9 +76,6 @@ dependencies {
     //auto size
     implementation 'com.intuit.sdp:sdp-android:1.0.6'
 
-    //animation
-    implementation "com.airbnb.android:lottie:3.4.0"
-
     //tab indicator
     implementation 'com.tbuonomo:dotsindicator:4.2'
 

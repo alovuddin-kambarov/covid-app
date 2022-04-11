@@ -15,6 +15,7 @@ import uz.coder.hilt.utils.MyData
 class PreventionFragment : Fragment(R.layout.fragment_prevention) {
 
     private val binding: FragmentPreventionBinding by viewBinding()
+
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
 
