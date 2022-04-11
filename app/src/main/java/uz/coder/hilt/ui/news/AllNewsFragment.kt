@@ -80,4 +80,6 @@ class AllNewsFragment : Fragment(R.layout.fragment_all_news) {
     }
 
 
+
+
 }

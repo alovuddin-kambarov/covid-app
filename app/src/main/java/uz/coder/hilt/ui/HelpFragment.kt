@@ -9,7 +9,6 @@ class HelpFragment : Fragment(R.layout.fragment_help) {
     override fun onResume() {
         super.onResume()
         (activity as AppCompatActivity?)!!.supportActionBar!!.show()
-        (activity as AppCompatActivity?)!!.supportActionBar!!.title = "Help"
         (activity as AppCompatActivity?)!!.supportActionBar?.setHomeButtonEnabled(true)
         (activity as AppCompatActivity?)!!.supportActionBar?.setDisplayHomeAsUpEnabled(true)
         (activity as AppCompatActivity?)!!.supportActionBar?.setHomeAsUpIndicator(R.drawable.ic_navigation_icon)

@@ -102,14 +102,14 @@ class CountryFragment : Fragment() {
         lineDataSet2.fillColor = Color.GREEN
 
         val lineDataSet3 = LineDataSet(arrayList3, "Death")
-        lineDataSet2.axisDependency = YAxis.AxisDependency.LEFT
-        lineDataSet2.color = Color.RED
-        lineDataSet2.setDrawCircles(false)
-        lineDataSet2.lineWidth = 3f
-        lineDataSet2.disableDashedLine()
-        lineDataSet2.fillAlpha = 155
-        lineDataSet2.setDrawFilled(false)
-        lineDataSet2.fillColor = Color.GREEN
+        lineDataSet3.axisDependency = YAxis.AxisDependency.LEFT
+        lineDataSet3.color = Color.RED
+        lineDataSet3.setDrawCircles(false)
+        lineDataSet3.lineWidth = 3f
+        lineDataSet3.disableDashedLine()
+        lineDataSet3.fillAlpha = 155
+        lineDataSet3.setDrawFilled(false)
+        lineDataSet3.fillColor = Color.GREEN
 
         val lineData = LineData(lineDataSet, lineDataSet2, lineDataSet3)
         lineData.setDrawValues(false)

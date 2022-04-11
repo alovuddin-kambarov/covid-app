@@ -32,10 +32,13 @@ class StatisticFragment : Fragment(R.layout.fragment_statistic) {
     override fun onResume() {
         super.onResume()
         (activity as AppCompatActivity?)!!.supportActionBar!!.show()
-        (activity as AppCompatActivity?)!!.supportActionBar!!.title = "Statistic"
         (activity as AppCompatActivity?)!!.supportActionBar?.setHomeButtonEnabled(true)
         (activity as AppCompatActivity?)!!.supportActionBar?.setDisplayHomeAsUpEnabled(true)
         (activity as AppCompatActivity?)!!.supportActionBar?.setHomeAsUpIndicator(R.drawable.ic_navigation_icon)
     }
+
+
+
+
 
 }

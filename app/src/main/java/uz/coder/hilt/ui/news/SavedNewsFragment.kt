@@ -41,4 +41,6 @@ class SavedNewsFragment : Fragment(R.layout.fragment_saved_news) {
 
     }
 
+
+
 }

@@ -14,31 +14,31 @@
     <fragment
         android:id="@+id/newsFragment"
         android:name="uz.coder.hilt.ui.news.NewsFragment"
-        android:label="fragment_news"
+        android:label="News"
         tools:layout="@layout/fragment_news" />
     <fragment
         android:id="@+id/symptomsFragment"
         android:name="uz.coder.hilt.ui.SymptomsFragment"
-        android:label="fragment_symptoms"
+        android:label="Symptoms"
         tools:layout="@layout/fragment_symptoms" />
     <fragment
         android:id="@+id/helpFragment"
         android:name="uz.coder.hilt.ui.HelpFragment"
-        android:label="fragment_help"
+        android:label="Help"
         tools:layout="@layout/fragment_help" />
     <fragment
         android:id="@+id/preventionFragment"
         android:name="uz.coder.hilt.ui.PreventionFragment"
-        android:label="fragment_prevention"
+        android:label="Prevention"
         tools:layout="@layout/fragment_prevention" />
     <fragment
         android:id="@+id/statisticFragment"
         android:name="uz.coder.hilt.ui.statistic.StatisticFragment"
-        android:label="fragment_statistic"
+        android:label="Statistic"
         tools:layout="@layout/fragment_statistic" />
     <fragment
         android:id="@+id/articleFragment"
         android:name="uz.coder.hilt.ui.ArticleFragment"
-        android:label="fragment_article"
+        android:label="Article"
         tools:layout="@layout/fragment_article" />
 </navigation>
