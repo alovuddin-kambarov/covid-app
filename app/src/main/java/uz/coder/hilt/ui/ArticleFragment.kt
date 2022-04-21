@@ -33,8 +33,6 @@ class ArticleFragment : Fragment(R.layout.fragment_article) {
 
                 }
                 is NewsResource.Success -> {
-
-
                     val aaa = object : ArticleAdapter.OnItemClick {
                         override fun click(newsEntity: NewsEntity) {
 
@@ -46,18 +44,12 @@ class ArticleFragment : Fragment(R.layout.fragment_article) {
                             )
                         }
                     }
-
                     binding.rv.adapter = ArticleAdapter(it.list as ArrayList<NewsEntity>, aaa)
 
                 }
             }
-
-
         }
-
-
     }
-
 
     override fun onResume() {
         super.onResume()
